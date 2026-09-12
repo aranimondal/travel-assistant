@@ -20,7 +20,7 @@ class MCPTravelTools:
         client = MultiServerMCPClient({
             "travel": {
                 "command": "python",
-                "args": [str(ROOT_DIR / "mcp" / "travel_mcp_server.py")],
+                "args": [str(ROOT_DIR / "travel_mcp" / "travel_mcp_server.py")],
                 "transport": "stdio",
             }
         })
