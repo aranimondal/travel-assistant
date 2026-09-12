@@ -1,0 +1,13 @@
+chromadb
+httpx
+langchain
+langchain-chroma
+langchain-huggingface
+langchain-mcp-adapters
+langchain-openai
+langchain-text-splitters
+mcp
+python-dotenv
+sentence-transformers
+streamlit
+pytest
